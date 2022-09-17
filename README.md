@@ -1,1 +1,1 @@
-Restaurant Template
+Gericht Restaurant Clone
